@@ -11,6 +11,7 @@ public class Main {
         System.out.printf("");
         Boom();
         System.out.println("After add");
+        System.out.println("Second sout");
     }
 
 
